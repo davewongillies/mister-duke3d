@@ -15,5 +15,5 @@ echo $HOME
 cd $BLII_HOME_DIR
 
 vmode -r 640 480 rgb32
-taskset 03 $DUKE_HOME_DIR/duke3d
+taskset 03 $DUKE_HOME_DIR/chocolate-duke3d
 
