@@ -1,5 +1,4 @@
-* put duke32 in /media/fat
-* put Duke3D.sh in /media/fat/Scripts
-* Copy your Duke3d.grp, game.con, user.con, defs.con in /media/fat/duke32
+# mister-duke3d
 
-For music, copy a soundfont /media/fat/duke32 and configure it in Duke3D.sh
+* Copy your `Duke3d.grp`, `game.con`, `user.con`, `defs.con` in `/media/fat/Games/Duke3D`
+* For music, copy a soundfont /media/fat/Games/Duke3D and configure it in `/media/fat/Scripts/Duke3D.ini`
